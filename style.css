@@ -1,0 +1,47 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 350px; 
+}
+#result_jester_name
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading{
+  font-size: 25px;
+  border-radius: 10px;
+  letter-spacing: 2px;
+}
+
+.emotion_name , .emoji{
+  font-size: 40px;
+}
+
+#camera, #result{
+  border: 2px solid black;
+ height: 350px;
+ width: 350px;
+}
+
+label{
+  font-size: 20px;
+}
